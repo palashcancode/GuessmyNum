@@ -9,13 +9,19 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~51.0.22",
+    "expo": "~51.0.24",
+    "expo-font": "~12.0.9",
+    "expo-linear-gradient": "~13.0.2",
+    "expo-splash-screen": "~0.27.5",
     "expo-status-bar": "~1.12.1",
+    "install": "^0.13.0",
     "react": "18.2.0",
-    "react-native": "0.74.3"
+    "react-dom": "18.2.0",
+    "react-native": "0.74.3",
+    "react-native-web": "~0.19.10"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.24.0"
   },
   "private": true
 }
